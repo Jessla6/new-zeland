@@ -1,0 +1,17 @@
+.basic {
+  background-color: springgreen;
+}
+
+.midrange {
+  background-color: green;
+  color: white;
+}
+
+.deluxe {
+  background-color: darkgreen;
+  color: white;
+}
+
+.header {
+  font-weight: 20px;
+}
